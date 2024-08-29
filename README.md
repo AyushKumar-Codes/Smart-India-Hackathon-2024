@@ -42,9 +42,7 @@
 
 ## Expected Solution as stated from the problem description:
 "*Design and development of a mobile application which identifies suitability of coastal tourism sites based on the current weather and oceanic conditions. This can help to save lives and better plan the coastal tourist/recreational activities for the user*"
-
-
-## Application
+## About the Application
 ### Features
 - Threat Level indication
 - Emergency contact number
